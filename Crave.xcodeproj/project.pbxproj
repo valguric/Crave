@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5CEC2A332AD82A18003DF871 /* FortuneWheel in Frameworks */ = {isa = PBXBuildFile; productRef = 5CEC2A322AD82A18003DF871 /* FortuneWheel */; };
 		71BEFB912AD426C8007DD1A6 /* CraveApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BEFB902AD426C8007DD1A6 /* CraveApp.swift */; };
 		71BEFB932AD426C8007DD1A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BEFB922AD426C8007DD1A6 /* ContentView.swift */; };
 		71BEFB952AD426C9007DD1A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71BEFB942AD426C9007DD1A6 /* Assets.xcassets */; };
@@ -53,6 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CEC2A332AD82A18003DF871 /* FortuneWheel in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,6 +148,9 @@
 			dependencies = (
 			);
 			name = Crave;
+			packageProductDependencies = (
+				5CEC2A322AD82A18003DF871 /* FortuneWheel */,
+			);
 			productName = Crave;
 			productReference = 71BEFB8D2AD426C8007DD1A6 /* Crave.app */;
 			productType = "com.apple.product-type.application";
@@ -218,6 +223,9 @@
 				Base,
 			);
 			mainGroup = 71BEFB842AD426C8007DD1A6;
+			packageReferences = (
+				5CEC2A312AD82A18003DF871 /* XCRemoteSwiftPackageReference "FortuneWheel" */,
+			);
 			productRefGroup = 71BEFB8E2AD426C8007DD1A6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -592,6 +600,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		5CEC2A312AD82A18003DF871 /* XCRemoteSwiftPackageReference "FortuneWheel" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/sameersyd/FortuneWheel.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.1.5;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		5CEC2A322AD82A18003DF871 /* FortuneWheel */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5CEC2A312AD82A18003DF871 /* XCRemoteSwiftPackageReference "FortuneWheel" */;
+			productName = FortuneWheel;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 71BEFB852AD426C8007DD1A6 /* Project object */;
 }
