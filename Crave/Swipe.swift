@@ -20,7 +20,9 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 struct Home : View {
-    
+    //switch cuisine [
+    //case.mexican:
+    //restaurant = [
     @State var restaurant = [
         
         Tools(id: 0, image: "mexika", name: "Mexika", offset: 0, place: 1),
@@ -35,7 +37,8 @@ struct Home : View {
                Tools(id: 9, image: "El Placer", name: "El Placer", offset: 0, place: 10)
            ]
     
-    //asian
+    //case.asian:
+    //restaurant = [
     
 //    Tools(id: 0, image: "Shiro", name: "Shiro", offset: 0, place: 1),
 //            Tools(id: 1, image: "Yauatcha", name: "Yauatcha", offset: 0, place: 2),
@@ -49,8 +52,8 @@ struct Home : View {
 //            Tools(id: 9, image: "Haku", name: "Haku", offset: 0, place: 10)
 //        ]
     
-    //khaleeji
-
+    //case.khaleeji:
+    //restaurant = [
     
 //    //Tools(id: 0, image: "Al Romansiah", name: "Al Romansiah", offset: 0, place: 1),
 //    Tools(id: 1, image: "Al Saudi", name: "Al Saudi", offset: 0, place: 2),
@@ -64,7 +67,8 @@ struct Home : View {
 //    Tools(id: 9, image: "BU KEES", name: "BU KEES", offset: 0, place: 10)
 //]
     
-    //italian
+    //case.italian:
+    //restaurant = [
     
 //    Tools(id: 0, image: "PIZZA HUT", name: "PIZZA HUT", offset: 0, place: 1),
 //           Tools(id: 1, image: "Dominos pizza", name: "Dominos pizza", offset: 0, place: 2),
@@ -78,7 +82,8 @@ struct Home : View {
 //           Tools(id: 9, image: "L’Antica Pizzeria da Michele", name: "L’Antica Pizzeria da Michele", offset: 0, place: 10)
 //       ]
     
-    //indian
+    //case.indian:
+    //restaurant = [
     
 //    Tools(id: 0, image: "Zafarn", name: "Zafarn", offset: 0, place: 1),
 //           Tools(id: 1, image: "Baba khan", name: "Baba khan", offset: 0, place: 2),
@@ -91,7 +96,10 @@ struct Home : View {
 //           Tools(id: 8, image: "amaly", name: "Amaly", offset: 0, place: 9),
 //           Tools(id: 9, image: "blue Tok Tok", name: "Blue Tok Tok", offset: 0, place: 10)
 //       ]
-    //american
+    
+    //case.american:
+    //restaurant = [
+    
 //    Tools(id: 0, image: "McDonalds", name: "McDonalds", offset: 0, place: 1),
 //           Tools(id: 1, image: "Hardes", name: "Hardes", offset: 0, place: 2),
 //           Tools(id: 2, image: "Five Guys", name: "Five Guys", offset: 0, place: 3),
@@ -102,6 +110,10 @@ struct Home : View {
 //           Tools(id: 7, image: "Steak House", name: "Steak House", offset: 0, place: 8),
 //           Tools(id: 8, image: "Wild Bufflo Wings", name: "Wild Bufflo Wings", offset: 0, place: 9)
 //       ]
+    
+    //  ]
+    // }
+    //}
     
     
     
