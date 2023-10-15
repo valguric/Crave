@@ -12,6 +12,7 @@ struct CraveApp: App {
     var body: some Scene {
         WindowGroup {
             Mexican()
+            Swipe()
         }
     }
 }

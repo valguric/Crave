@@ -15,6 +15,7 @@
 		71BEFBA22AD426C9007DD1A6 /* CraveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BEFBA12AD426C9007DD1A6 /* CraveTests.swift */; };
 		71BEFBAC2AD426C9007DD1A6 /* CraveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BEFBAB2AD426C9007DD1A6 /* CraveUITests.swift */; };
 		71BEFBAE2AD426C9007DD1A6 /* CraveUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BEFBAD2AD426C9007DD1A6 /* CraveUITestsLaunchTests.swift */; };
+		71E2CBBE2ADC207C006A3066 /* Swipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E2CBBD2ADC207C006A3066 /* Swipe.swift */; };
 		EC038A082ADC1D18007BC8DD /* American.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A072ADC1D18007BC8DD /* American.swift */; };
 		EC038A0E2ADC1DDF007BC8DD /* Khaleeji.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A092ADC1DDF007BC8DD /* Khaleeji.swift */; };
 		EC038A0F2ADC1DDF007BC8DD /* Mexican.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A0A2ADC1DDF007BC8DD /* Mexican.swift */; };
@@ -52,6 +53,7 @@
 		71BEFBA72AD426C9007DD1A6 /* CraveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CraveUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		71BEFBAB2AD426C9007DD1A6 /* CraveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraveUITests.swift; sourceTree = "<group>"; };
 		71BEFBAD2AD426C9007DD1A6 /* CraveUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraveUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		71E2CBBD2ADC207C006A3066 /* Swipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swipe.swift; sourceTree = "<group>"; };
 		EC038A072ADC1D18007BC8DD /* American.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = American.swift; path = ../../../../Desktop/Crave/Crave/OverLayerPopUp/American.swift; sourceTree = "<group>"; };
 		EC038A092ADC1DDF007BC8DD /* Khaleeji.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Khaleeji.swift; path = ../../../../Desktop/Crave/Crave/OverLayerPopUp/Khaleeji.swift; sourceTree = "<group>"; };
 		EC038A0A2ADC1DDF007BC8DD /* Mexican.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Mexican.swift; path = ../../../../Desktop/Crave/Crave/OverLayerPopUp/Mexican.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				EC038A062ADC1CD5007BC8DD /* OverLayerPopUps */,
 				71BEFB922AD426C8007DD1A6 /* ContentView.swift */,
 				71BEFB942AD426C9007DD1A6 /* Assets.xcassets */,
+				71E2CBBD2ADC207C006A3066 /* Swipe.swift */,
 				71BEFB962AD426C9007DD1A6 /* Preview Content */,
 			);
 			path = Crave;
@@ -294,6 +297,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71E2CBBE2ADC207C006A3066 /* Swipe.swift in Sources */,
 				EC038A102ADC1DDF007BC8DD /* Italian.swift in Sources */,
 				EC038A0F2ADC1DDF007BC8DD /* Mexican.swift in Sources */,
 				EC038A122ADC1DDF007BC8DD /* Asian.swift in Sources */,
