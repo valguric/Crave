@@ -16,12 +16,12 @@
 		71BEFBAC2AD426C9007DD1A6 /* CraveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BEFBAB2AD426C9007DD1A6 /* CraveUITests.swift */; };
 		71BEFBAE2AD426C9007DD1A6 /* CraveUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BEFBAD2AD426C9007DD1A6 /* CraveUITestsLaunchTests.swift */; };
 		71E2CBBE2ADC207C006A3066 /* Swipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E2CBBD2ADC207C006A3066 /* Swipe.swift */; };
-		EC038A082ADC1D18007BC8DD /* American.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A072ADC1D18007BC8DD /* American.swift */; };
-		EC038A0E2ADC1DDF007BC8DD /* Khaleeji.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A092ADC1DDF007BC8DD /* Khaleeji.swift */; };
-		EC038A0F2ADC1DDF007BC8DD /* Mexican.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A0A2ADC1DDF007BC8DD /* Mexican.swift */; };
-		EC038A102ADC1DDF007BC8DD /* Italian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A0B2ADC1DDF007BC8DD /* Italian.swift */; };
-		EC038A112ADC1DDF007BC8DD /* Indian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A0C2ADC1DDF007BC8DD /* Indian.swift */; };
-		EC038A122ADC1DDF007BC8DD /* Asian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A0D2ADC1DDF007BC8DD /* Asian.swift */; };
+		EC038A1B2ADC2A34007BC8DD /* American.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A1A2ADC2A34007BC8DD /* American.swift */; };
+		EC038A1D2ADC2A50007BC8DD /* Asian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A1C2ADC2A50007BC8DD /* Asian.swift */; };
+		EC038A1F2ADC2A68007BC8DD /* Indian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A1E2ADC2A68007BC8DD /* Indian.swift */; };
+		EC038A212ADC2A87007BC8DD /* Italian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A202ADC2A87007BC8DD /* Italian.swift */; };
+		EC038A232ADC2AA9007BC8DD /* Khaleeji.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A222ADC2AA9007BC8DD /* Khaleeji.swift */; };
+		EC038A252ADC2AC4007BC8DD /* Mexican.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A242ADC2AC4007BC8DD /* Mexican.swift */; };
 		EFB70A872AD437D10068FCBC /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFB70A862AD437D10068FCBC /* File.swift */; };
 /* End PBXBuildFile section */
 
@@ -54,12 +54,12 @@
 		71BEFBAB2AD426C9007DD1A6 /* CraveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraveUITests.swift; sourceTree = "<group>"; };
 		71BEFBAD2AD426C9007DD1A6 /* CraveUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraveUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		71E2CBBD2ADC207C006A3066 /* Swipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swipe.swift; sourceTree = "<group>"; };
-		EC038A072ADC1D18007BC8DD /* American.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = American.swift; path = ../../../../Desktop/Crave/Crave/OverLayerPopUp/American.swift; sourceTree = "<group>"; };
-		EC038A092ADC1DDF007BC8DD /* Khaleeji.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Khaleeji.swift; path = ../../../../Desktop/Crave/Crave/OverLayerPopUp/Khaleeji.swift; sourceTree = "<group>"; };
-		EC038A0A2ADC1DDF007BC8DD /* Mexican.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Mexican.swift; path = ../../../../Desktop/Crave/Crave/OverLayerPopUp/Mexican.swift; sourceTree = "<group>"; };
-		EC038A0B2ADC1DDF007BC8DD /* Italian.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Italian.swift; path = ../../../../Desktop/Crave/Crave/OverLayerPopUp/Italian.swift; sourceTree = "<group>"; };
-		EC038A0C2ADC1DDF007BC8DD /* Indian.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Indian.swift; path = ../../../../Desktop/Crave/Crave/OverLayerPopUp/Indian.swift; sourceTree = "<group>"; };
-		EC038A0D2ADC1DDF007BC8DD /* Asian.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Asian.swift; path = ../../../../Desktop/Crave/Crave/OverLayerPopUp/Asian.swift; sourceTree = "<group>"; };
+		EC038A1A2ADC2A34007BC8DD /* American.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = American.swift; sourceTree = "<group>"; };
+		EC038A1C2ADC2A50007BC8DD /* Asian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Asian.swift; sourceTree = "<group>"; };
+		EC038A1E2ADC2A68007BC8DD /* Indian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Indian.swift; sourceTree = "<group>"; };
+		EC038A202ADC2A87007BC8DD /* Italian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Italian.swift; sourceTree = "<group>"; };
+		EC038A222ADC2AA9007BC8DD /* Khaleeji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Khaleeji.swift; sourceTree = "<group>"; };
+		EC038A242ADC2AC4007BC8DD /* Mexican.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mexican.swift; sourceTree = "<group>"; };
 		EFB70A862AD437D10068FCBC /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -92,6 +92,7 @@
 		71BEFB842AD426C8007DD1A6 = {
 			isa = PBXGroup;
 			children = (
+				EC038A192ADC2A12007BC8DD /* OverLayers */,
 				71BEFB8F2AD426C8007DD1A6 /* Crave */,
 				71BEFBA02AD426C9007DD1A6 /* CraveTests */,
 				71BEFBAA2AD426C9007DD1A6 /* CraveUITests */,
@@ -113,7 +114,6 @@
 			isa = PBXGroup;
 			children = (
 				71BEFB902AD426C8007DD1A6 /* CraveApp.swift */,
-				EC038A062ADC1CD5007BC8DD /* OverLayerPopUps */,
 				71BEFB922AD426C8007DD1A6 /* ContentView.swift */,
 				71BEFB942AD426C9007DD1A6 /* Assets.xcassets */,
 				71E2CBBD2ADC207C006A3066 /* Swipe.swift */,
@@ -148,17 +148,17 @@
 			path = CraveUITests;
 			sourceTree = "<group>";
 		};
-		EC038A062ADC1CD5007BC8DD /* OverLayerPopUps */ = {
+		EC038A192ADC2A12007BC8DD /* OverLayers */ = {
 			isa = PBXGroup;
 			children = (
-				EC038A072ADC1D18007BC8DD /* American.swift */,
-				EC038A0D2ADC1DDF007BC8DD /* Asian.swift */,
-				EC038A0C2ADC1DDF007BC8DD /* Indian.swift */,
-				EC038A0B2ADC1DDF007BC8DD /* Italian.swift */,
-				EC038A092ADC1DDF007BC8DD /* Khaleeji.swift */,
-				EC038A0A2ADC1DDF007BC8DD /* Mexican.swift */,
+				EC038A1A2ADC2A34007BC8DD /* American.swift */,
+				EC038A1C2ADC2A50007BC8DD /* Asian.swift */,
+				EC038A1E2ADC2A68007BC8DD /* Indian.swift */,
+				EC038A202ADC2A87007BC8DD /* Italian.swift */,
+				EC038A222ADC2AA9007BC8DD /* Khaleeji.swift */,
+				EC038A242ADC2AC4007BC8DD /* Mexican.swift */,
 			);
-			path = OverLayerPopUps;
+			path = OverLayers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -298,14 +298,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				71E2CBBE2ADC207C006A3066 /* Swipe.swift in Sources */,
-				EC038A102ADC1DDF007BC8DD /* Italian.swift in Sources */,
-				EC038A0F2ADC1DDF007BC8DD /* Mexican.swift in Sources */,
-				EC038A122ADC1DDF007BC8DD /* Asian.swift in Sources */,
+				EC038A1B2ADC2A34007BC8DD /* American.swift in Sources */,
+				EC038A252ADC2AC4007BC8DD /* Mexican.swift in Sources */,
+				EC038A1F2ADC2A68007BC8DD /* Indian.swift in Sources */,
 				71BEFB932AD426C8007DD1A6 /* ContentView.swift in Sources */,
 				71BEFB912AD426C8007DD1A6 /* CraveApp.swift in Sources */,
-				EC038A0E2ADC1DDF007BC8DD /* Khaleeji.swift in Sources */,
-				EC038A112ADC1DDF007BC8DD /* Indian.swift in Sources */,
-				EC038A082ADC1D18007BC8DD /* American.swift in Sources */,
+				EC038A1D2ADC2A50007BC8DD /* Asian.swift in Sources */,
+				EC038A232ADC2AA9007BC8DD /* Khaleeji.swift in Sources */,
+				EC038A212ADC2A87007BC8DD /* Italian.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
