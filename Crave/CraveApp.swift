@@ -11,7 +11,7 @@ import SwiftUI
 struct CraveApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Mexican()
         }
     }
 }
