@@ -16,6 +16,22 @@
 		71BEFBAC2AD426C9007DD1A6 /* CraveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BEFBAB2AD426C9007DD1A6 /* CraveUITests.swift */; };
 		71BEFBAE2AD426C9007DD1A6 /* CraveUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BEFBAD2AD426C9007DD1A6 /* CraveUITestsLaunchTests.swift */; };
 		71E2CBBE2ADC207C006A3066 /* Swipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E2CBBD2ADC207C006A3066 /* Swipe.swift */; };
+		B162B5C52ADD6103000C634F /* PF CHANGS .swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5B52ADD6103000C634F /* PF CHANGS .swift */; };
+		B162B5C62ADD6103000C634F /* Restaurant_InformationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5B62ADD6103000C634F /* Restaurant_InformationApp.swift */; };
+		B162B5C72ADD6103000C634F /* EL CAMINO .swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5B72ADD6103000C634F /* EL CAMINO .swift */; };
+		B162B5C82ADD6103000C634F /* FIRE GRIL .swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5B82ADD6103000C634F /* FIRE GRIL .swift */; };
+		B162B5C92ADD6103000C634F /* AMIGOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5B92ADD6103000C634F /* AMIGOS.swift */; };
+		B162B5CA2ADD6103000C634F /* TACOSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5BA2ADD6103000C634F /* TACOSON.swift */; };
+		B162B5CB2ADD6103000C634F /* mohalla.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5BB2ADD6103000C634F /* mohalla.swift */; };
+		B162B5CC2ADD6103000C634F /* mcdonalds.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5BC2ADD6103000C634F /* mcdonalds.swift */; };
+		B162B5CD2ADD6103000C634F /* MEXIKA.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5BD2ADD6103000C634F /* MEXIKA.swift */; };
+		B162B5CE2ADD6103000C634F /* EL PLACER .swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5BE2ADD6103000C634F /* EL PLACER .swift */; };
+		B162B5CF2ADD6103000C634F /* TACO HUT .swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5BF2ADD6103000C634F /* TACO HUT .swift */; };
+		B162B5D02ADD6103000C634F /* Tacoville.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5C02ADD6103000C634F /* Tacoville.swift */; };
+		B162B5D12ADD6103000C634F /* DON RUBEN .swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5C12ADD6103000C634F /* DON RUBEN .swift */; };
+		B162B5D22ADD6103000C634F /* Takya.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5C22ADD6103000C634F /* Takya.swift */; };
+		B162B5D32ADD6103000C634F /* Piatto.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5C32ADD6103000C634F /* Piatto.swift */; };
+		B162B5D42ADD6103000C634F /* Chilis.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5C42ADD6103000C634F /* Chilis.swift */; };
 		EC038A1B2ADC2A34007BC8DD /* American.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A1A2ADC2A34007BC8DD /* American.swift */; };
 		EC038A1D2ADC2A50007BC8DD /* Asian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A1C2ADC2A50007BC8DD /* Asian.swift */; };
 		EC038A1F2ADC2A68007BC8DD /* Indian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A1E2ADC2A68007BC8DD /* Indian.swift */; };
@@ -56,6 +72,38 @@
 		71BEFBAB2AD426C9007DD1A6 /* CraveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraveUITests.swift; sourceTree = "<group>"; };
 		71BEFBAD2AD426C9007DD1A6 /* CraveUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraveUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		71E2CBBD2ADC207C006A3066 /* Swipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swipe.swift; sourceTree = "<group>"; };
+		B162B5B52ADD6103000C634F /* PF CHANGS .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "PF CHANGS .swift"; path = "../../../Desktop/my files /PF CHANGS .swift"; sourceTree = "<group>"; };
+		B162B5B62ADD6103000C634F /* Restaurant_InformationApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Restaurant_InformationApp.swift; path = "../../../Desktop/my files /Restaurant_InformationApp.swift"; sourceTree = "<group>"; };
+		B162B5B72ADD6103000C634F /* EL CAMINO .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "EL CAMINO .swift"; path = "../../../Desktop/my files /EL CAMINO .swift"; sourceTree = "<group>"; };
+		B162B5B82ADD6103000C634F /* FIRE GRIL .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "FIRE GRIL .swift"; path = "../../../Desktop/my files /FIRE GRIL .swift"; sourceTree = "<group>"; };
+		B162B5B92ADD6103000C634F /* AMIGOS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AMIGOS.swift; path = "../../../Desktop/my files /AMIGOS.swift"; sourceTree = "<group>"; };
+		B162B5BA2ADD6103000C634F /* TACOSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TACOSON.swift; path = "../../../Desktop/my files /TACOSON.swift"; sourceTree = "<group>"; };
+		B162B5BB2ADD6103000C634F /* mohalla.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = mohalla.swift; path = "../../../Desktop/my files /mohalla.swift"; sourceTree = "<group>"; };
+		B162B5BC2ADD6103000C634F /* mcdonalds.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = mcdonalds.swift; path = "../../../Desktop/my files /mcdonalds.swift"; sourceTree = "<group>"; };
+		B162B5BD2ADD6103000C634F /* MEXIKA.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MEXIKA.swift; path = "../../../Desktop/my files /MEXIKA.swift"; sourceTree = "<group>"; };
+		B162B5BE2ADD6103000C634F /* EL PLACER .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "EL PLACER .swift"; path = "../../../Desktop/my files /EL PLACER .swift"; sourceTree = "<group>"; };
+		B162B5BF2ADD6103000C634F /* TACO HUT .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "TACO HUT .swift"; path = "../../../Desktop/my files /TACO HUT .swift"; sourceTree = "<group>"; };
+		B162B5C02ADD6103000C634F /* Tacoville.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Tacoville.swift; path = "../../../Desktop/my files /Tacoville.swift"; sourceTree = "<group>"; };
+		B162B5C12ADD6103000C634F /* DON RUBEN .swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "DON RUBEN .swift"; path = "../../../Desktop/my files /DON RUBEN .swift"; sourceTree = "<group>"; };
+		B162B5C22ADD6103000C634F /* Takya.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Takya.swift; path = "../../../Desktop/my files /Takya.swift"; sourceTree = "<group>"; };
+		B162B5C32ADD6103000C634F /* Piatto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Piatto.swift; path = "../../../Desktop/my files /Piatto.swift"; sourceTree = "<group>"; };
+		B162B5C42ADD6103000C634F /* Chilis.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Chilis.swift; path = "../../../Desktop/my files /Chilis.swift"; sourceTree = "<group>"; };
+		B162B5D62ADD613D000C634F /* Tacoville.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tacoville.swift; sourceTree = "<group>"; };
+		B162B5D72ADD613D000C634F /* Takya.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Takya.swift; sourceTree = "<group>"; };
+		B162B5D82ADD613D000C634F /* DON RUBEN .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DON RUBEN .swift"; sourceTree = "<group>"; };
+		B162B5D92ADD613D000C634F /* Chilis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chilis.swift; sourceTree = "<group>"; };
+		B162B5DA2ADD613D000C634F /* EL CAMINO .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EL CAMINO .swift"; sourceTree = "<group>"; };
+		B162B5DB2ADD613D000C634F /* PF CHANGS .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PF CHANGS .swift"; sourceTree = "<group>"; };
+		B162B5DC2ADD613D000C634F /* MEXIKA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MEXIKA.swift; sourceTree = "<group>"; };
+		B162B5DD2ADD613D000C634F /* TACO HUT .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TACO HUT .swift"; sourceTree = "<group>"; };
+		B162B5DE2ADD613D000C634F /* Piatto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Piatto.swift; sourceTree = "<group>"; };
+		B162B5DF2ADD613D000C634F /* TACOSON.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TACOSON.swift; sourceTree = "<group>"; };
+		B162B5E02ADD613D000C634F /* AMIGOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AMIGOS.swift; sourceTree = "<group>"; };
+		B162B5E12ADD613D000C634F /* EL PLACER .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EL PLACER .swift"; sourceTree = "<group>"; };
+		B162B5E22ADD613E000C634F /* mohalla.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mohalla.swift; sourceTree = "<group>"; };
+		B162B5E32ADD613E000C634F /* FIRE GRIL .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FIRE GRIL .swift"; sourceTree = "<group>"; };
+		B162B5E42ADD613E000C634F /* Restaurant_InformationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant_InformationApp.swift; sourceTree = "<group>"; };
+		B162B5E52ADD613E000C634F /* mcdonalds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mcdonalds.swift; sourceTree = "<group>"; };
 		EC038A1A2ADC2A34007BC8DD /* American.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = American.swift; sourceTree = "<group>"; };
 		EC038A1C2ADC2A50007BC8DD /* Asian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Asian.swift; sourceTree = "<group>"; };
 		EC038A1E2ADC2A68007BC8DD /* Indian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Indian.swift; sourceTree = "<group>"; };
@@ -118,6 +166,23 @@
 			isa = PBXGroup;
 			children = (
 				71BEFB902AD426C8007DD1A6 /* CraveApp.swift */,
+				B162B5D52ADD613D000C634F /* ResturantInfo */,
+				B162B5B92ADD6103000C634F /* AMIGOS.swift */,
+				B162B5C42ADD6103000C634F /* Chilis.swift */,
+				B162B5C12ADD6103000C634F /* DON RUBEN .swift */,
+				B162B5B72ADD6103000C634F /* EL CAMINO .swift */,
+				B162B5BE2ADD6103000C634F /* EL PLACER .swift */,
+				B162B5B82ADD6103000C634F /* FIRE GRIL .swift */,
+				B162B5BC2ADD6103000C634F /* mcdonalds.swift */,
+				B162B5BD2ADD6103000C634F /* MEXIKA.swift */,
+				B162B5BB2ADD6103000C634F /* mohalla.swift */,
+				B162B5B52ADD6103000C634F /* PF CHANGS .swift */,
+				B162B5C32ADD6103000C634F /* Piatto.swift */,
+				B162B5B62ADD6103000C634F /* Restaurant_InformationApp.swift */,
+				B162B5BF2ADD6103000C634F /* TACO HUT .swift */,
+				B162B5BA2ADD6103000C634F /* TACOSON.swift */,
+				B162B5C02ADD6103000C634F /* Tacoville.swift */,
+				B162B5C22ADD6103000C634F /* Takya.swift */,
 				71BEFB922AD426C8007DD1A6 /* ContentView.swift */,
 				71BEFB942AD426C9007DD1A6 /* Assets.xcassets */,
 				71E2CBBD2ADC207C006A3066 /* Swipe.swift */,
@@ -150,6 +215,29 @@
 				EFB70A862AD437D10068FCBC /* File.swift */,
 			);
 			path = CraveUITests;
+			sourceTree = "<group>";
+		};
+		B162B5D52ADD613D000C634F /* ResturantInfo */ = {
+			isa = PBXGroup;
+			children = (
+				B162B5E02ADD613D000C634F /* AMIGOS.swift */,
+				B162B5D92ADD613D000C634F /* Chilis.swift */,
+				B162B5D82ADD613D000C634F /* DON RUBEN .swift */,
+				B162B5DA2ADD613D000C634F /* EL CAMINO .swift */,
+				B162B5E12ADD613D000C634F /* EL PLACER .swift */,
+				B162B5E32ADD613E000C634F /* FIRE GRIL .swift */,
+				B162B5E52ADD613E000C634F /* mcdonalds.swift */,
+				B162B5DC2ADD613D000C634F /* MEXIKA.swift */,
+				B162B5E22ADD613E000C634F /* mohalla.swift */,
+				B162B5DB2ADD613D000C634F /* PF CHANGS .swift */,
+				B162B5DE2ADD613D000C634F /* Piatto.swift */,
+				B162B5E42ADD613E000C634F /* Restaurant_InformationApp.swift */,
+				B162B5DD2ADD613D000C634F /* TACO HUT .swift */,
+				B162B5DF2ADD613D000C634F /* TACOSON.swift */,
+				B162B5D62ADD613D000C634F /* Tacoville.swift */,
+				B162B5D72ADD613D000C634F /* Takya.swift */,
+			);
+			path = ResturantInfo;
 			sourceTree = "<group>";
 		};
 		EC038A192ADC2A12007BC8DD /* OverLayers */ = {
@@ -304,14 +392,30 @@
 			buildActionMask = 2147483647;
 			files = (
 				71E2CBBE2ADC207C006A3066 /* Swipe.swift in Sources */,
+				B162B5C52ADD6103000C634F /* PF CHANGS .swift in Sources */,
 				EC038A292ADC678D007BC8DD /* Welcome.swift in Sources */,
 				EC038A1B2ADC2A34007BC8DD /* American.swift in Sources */,
 				EC038A252ADC2AC4007BC8DD /* Mexican.swift in Sources */,
 				EC038A1F2ADC2A68007BC8DD /* Indian.swift in Sources */,
+				B162B5CE2ADD6103000C634F /* EL PLACER .swift in Sources */,
 				71BEFB932AD426C8007DD1A6 /* ContentView.swift in Sources */,
+				B162B5D12ADD6103000C634F /* DON RUBEN .swift in Sources */,
+				B162B5CA2ADD6103000C634F /* TACOSON.swift in Sources */,
+				B162B5C92ADD6103000C634F /* AMIGOS.swift in Sources */,
+				B162B5D22ADD6103000C634F /* Takya.swift in Sources */,
+				B162B5CF2ADD6103000C634F /* TACO HUT .swift in Sources */,
+				B162B5C72ADD6103000C634F /* EL CAMINO .swift in Sources */,
+				B162B5D42ADD6103000C634F /* Chilis.swift in Sources */,
+				B162B5C62ADD6103000C634F /* Restaurant_InformationApp.swift in Sources */,
+				B162B5C82ADD6103000C634F /* FIRE GRIL .swift in Sources */,
+				B162B5CB2ADD6103000C634F /* mohalla.swift in Sources */,
 				71BEFB912AD426C8007DD1A6 /* CraveApp.swift in Sources */,
+				B162B5CD2ADD6103000C634F /* MEXIKA.swift in Sources */,
 				EC038A272ADC3374007BC8DD /* Cuisines.swift in Sources */,
+				B162B5D32ADD6103000C634F /* Piatto.swift in Sources */,
+				B162B5D02ADD6103000C634F /* Tacoville.swift in Sources */,
 				EC038A1D2ADC2A50007BC8DD /* Asian.swift in Sources */,
+				B162B5CC2ADD6103000C634F /* mcdonalds.swift in Sources */,
 				EC038A232ADC2AA9007BC8DD /* Khaleeji.swift in Sources */,
 				EC038A212ADC2A87007BC8DD /* Italian.swift in Sources */,
 			);
