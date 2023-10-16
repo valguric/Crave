@@ -32,6 +32,7 @@
 		B162B5D22ADD6103000C634F /* Takya.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5C22ADD6103000C634F /* Takya.swift */; };
 		B162B5D32ADD6103000C634F /* Piatto.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5C32ADD6103000C634F /* Piatto.swift */; };
 		B162B5D42ADD6103000C634F /* Chilis.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5C42ADD6103000C634F /* Chilis.swift */; };
+		B162B5FF2ADD7454000C634F /* SHIRO.swift in Sources */ = {isa = PBXBuildFile; fileRef = B162B5FE2ADD7454000C634F /* SHIRO.swift */; };
 		EC038A1B2ADC2A34007BC8DD /* American.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A1A2ADC2A34007BC8DD /* American.swift */; };
 		EC038A1D2ADC2A50007BC8DD /* Asian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A1C2ADC2A50007BC8DD /* Asian.swift */; };
 		EC038A1F2ADC2A68007BC8DD /* Indian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC038A1E2ADC2A68007BC8DD /* Indian.swift */; };
@@ -88,6 +89,7 @@
 		B162B5C22ADD6103000C634F /* Takya.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Takya.swift; path = "../../../Desktop/my files /Takya.swift"; sourceTree = "<group>"; };
 		B162B5C32ADD6103000C634F /* Piatto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Piatto.swift; path = "../../../Desktop/my files /Piatto.swift"; sourceTree = "<group>"; };
 		B162B5C42ADD6103000C634F /* Chilis.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Chilis.swift; path = "../../../Desktop/my files /Chilis.swift"; sourceTree = "<group>"; };
+		B162B5FE2ADD7454000C634F /* SHIRO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SHIRO.swift; sourceTree = "<group>"; };
 		EC038A1A2ADC2A34007BC8DD /* American.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = American.swift; sourceTree = "<group>"; };
 		EC038A1C2ADC2A50007BC8DD /* Asian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Asian.swift; sourceTree = "<group>"; };
 		EC038A1E2ADC2A68007BC8DD /* Indian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Indian.swift; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 				B162B5BA2ADD6103000C634F /* TACOSON.swift */,
 				B162B5C02ADD6103000C634F /* Tacoville.swift */,
 				B162B5C22ADD6103000C634F /* Takya.swift */,
+				B162B5FE2ADD7454000C634F /* SHIRO.swift */,
 				71BEFB922AD426C8007DD1A6 /* ContentView.swift */,
 				71BEFB942AD426C9007DD1A6 /* Assets.xcassets */,
 				71E2CBBD2ADC207C006A3066 /* Swipe.swift */,
@@ -366,6 +369,7 @@
 				B162B5CF2ADD6103000C634F /* TACO HUT .swift in Sources */,
 				B162B5C72ADD6103000C634F /* EL CAMINO .swift in Sources */,
 				B162B5D42ADD6103000C634F /* Chilis.swift in Sources */,
+				B162B5FF2ADD7454000C634F /* SHIRO.swift in Sources */,
 				B162B5C62ADD6103000C634F /* Restaurant_InformationApp.swift in Sources */,
 				B162B5C82ADD6103000C634F /* FIRE GRIL .swift in Sources */,
 				B162B5CB2ADD6103000C634F /* mohalla.swift in Sources */,
