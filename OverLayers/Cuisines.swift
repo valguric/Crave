@@ -2,61 +2,79 @@
 import SwiftUI
 
 struct Cuisines: View {
+    @State var selected = ""
+    @State var show = false
+    
     var body: some View {
-        VStack {
-            Image("Mexican")
-                .resizable()
-                .scaledToFit()
-                .frame(width: 100, height: 100)
-                //.imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Mexican")
-                .bold()
-                .foregroundColor(.orange)
-                .font(.system(size: 22))
-                
+        ZStack {
+            Text("Home")
             
-            HStack{
-                Button("Play Again") {
-                    /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
-                }
-                .bold()
-                .foregroundColor(.orange) //button text color
+            VStack{
+                Spacer()
                 
-                .padding(EdgeInsets(top: 10, leading: 20, bottom: 10, trailing: 20))
-                .overlay(
-                    Capsule(style: .continuous)
-                                .stroke(Color.orange, style: StrokeStyle(lineWidth: 2))
-                )
-                //.border(Color.orange, width: 2)
-               // .Stroke(Color.orange)
-                //.cornerRadius(25)
-                
-                
-                Button("Confirm") {
-                    /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
-                }
-                .bold()
-                .foregroundColor(.white)
-                .bold()
-                .padding(EdgeInsets(top: 10, leading: 25, bottom: 10, trailing: 25))
-                .background(.orange)
-                .cornerRadius(30)
+                RadioButtons(selected: self.$selected, show: self.$show).offset(y: (UIApplication.shared.windows.last?.safeAreaInsets.bottom)!)
             }
-            
-            .padding(EdgeInsets(top: 30, leading: 10, bottom: 10, trailing: 10))
-        }
-        .frame(width: 280, height: 280)
-        .background(.white)
-        .cornerRadius(20)
-        //.padding(EdgeInsets(top: 10, leading: 20, bottom: 10, trailing: 20))
-        .shadow(radius: 10)
-       
-
-        
-        
+        }.background(.black.opacity(0.2))
+  
     }
 }
+
+struct RadioButtons : View {
+    @Binding var selected : String
+    @Binding var show : Bool
+    var body: some View {
+        VStack(alignment: .center) {
+            Text("Choose Your Cuisine")
+                .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
+                .padding(.top)
+                .multilineTextAlignment(.center)
+            
+            ForEach(data,id: \.self){i in
+                Button(action:{
+                    self.selected = i
+                }){
+                    HStack{
+                        
+                        Text(i)
+                        
+                        Spacer()
+                        
+                        ZStack{
+                            
+                            Circle().fill(self.selected == i ? Color(.orange): Color.orange.opacity(0.5)).frame(width: 18, height: 18)
+                            if self.selected == i{
+                                Circle().stroke(Color.orange, lineWidth:2) .frame(width:25, height: 25)
+                            }
+                        }
+                    }.foregroundColor(.black)
+                }
+                .padding(.top,10)
+            }
+            
+            Button("Confirm") {
+                /*@START_MENU_TOKEN@*//*@PLACEHOLDER=Action@*/ /*@END_MENU_TOKEN@*/
+                self.show.toggle()
+            }
+            .bold()
+            .foregroundColor(.white)
+            .bold()
+            .padding(EdgeInsets(top: 10, leading: 50, bottom: 10, trailing: 50))
+            .background(
+                self.selected != "" ?
+                Color.orange :  Color.black.opacity(0.2))
+            .cornerRadius(30)
+            .padding(.top)
+            .disabled(self.selected != "" ? false : true)
+        }
+        .padding(.vertical)
+        .padding(.horizontal,35)
+        .padding(.bottom,(UIApplication.shared.windows.last?.safeAreaInsets.bottom)! + 15)
+        .background(.white)
+        .cornerRadius(20)
+    }
+}
+var data = ["American 🍔", "Mexican 🌮", "Italian 🍕", "Asian 🍣", "Indian 🥘", "Khaleeji 🧆"]
+
 
 #Preview {
     Cuisines()
