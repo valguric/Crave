@@ -355,12 +355,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				71E2CBBE2ADC207C006A3066 /* Swipe.swift in Sources */,
-				B162B5C52ADD6103000C634F /* PF CHANGS .swift in Sources */,
 				EC038A292ADC678D007BC8DD /* Welcome.swift in Sources */,
 				EC038A1B2ADC2A34007BC8DD /* American.swift in Sources */,
 				EC038A252ADC2AC4007BC8DD /* Mexican.swift in Sources */,
 				EC038A1F2ADC2A68007BC8DD /* Indian.swift in Sources */,
-				B162B5CE2ADD6103000C634F /* EL PLACER .swift in Sources */,
 				71BEFB932AD426C8007DD1A6 /* ContentView.swift in Sources */,
 				B162B5D12ADD6103000C634F /* DON RUBEN .swift in Sources */,
 				B162B5CA2ADD6103000C634F /* TACOSON.swift in Sources */,
@@ -374,12 +372,8 @@
 				B162B5C82ADD6103000C634F /* FIRE GRIL .swift in Sources */,
 				B162B5CB2ADD6103000C634F /* mohalla.swift in Sources */,
 				71BEFB912AD426C8007DD1A6 /* CraveApp.swift in Sources */,
-				B162B5CD2ADD6103000C634F /* MEXIKA.swift in Sources */,
 				EC038A272ADC3374007BC8DD /* Cuisines.swift in Sources */,
-				B162B5D32ADD6103000C634F /* Piatto.swift in Sources */,
-				B162B5D02ADD6103000C634F /* Tacoville.swift in Sources */,
 				EC038A1D2ADC2A50007BC8DD /* Asian.swift in Sources */,
-				B162B5CC2ADD6103000C634F /* mcdonalds.swift in Sources */,
 				EC038A232ADC2AA9007BC8DD /* Khaleeji.swift in Sources */,
 				EC038A212ADC2A87007BC8DD /* Italian.swift in Sources */,
 			);

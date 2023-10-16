@@ -13,7 +13,7 @@ struct Swipe: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct Swipes_Previews: PreviewProvider {
     static var previews: some View {
         Swipe()
     }
