@@ -40,45 +40,45 @@ struct Home : View {
     //case.asian:
     //restaurant = [
     
-//    Tools(id: 0, image: "Shiro", name: "Shiro", offset: 0, place: 1),
+//              Tools(id: 0, image: "SHIRO", name: "SHIRO", offset: 0, place: 1),
 //            Tools(id: 1, image: "Yauatcha", name: "Yauatcha", offset: 0, place: 2),
 //            Tools(id: 2, image: "PF Changs", name: "PF Changs", offset: 0, place: 3),
 //            Tools(id: 3, image: "Panda Express", name: "Panda Express", offset: 0, place: 4),
 //            Tools(id: 4, image: "Baytoti", name: "Baytoti", offset: 0, place: 5),
-//            Tools(id: 5, image: "Le Cheatu", name: "Le Cheatu", offset: 0, place: 6),
+//            Tools(id: 5, image: "Le chateau", name: "Le chateau", offset: 0, place: 6),
 //            Tools(id: 6, image: "Canton", name: "Canton", offset: 0, place: 7),
-//            Tools(id: 7, image: "Masami Sushi", name: "Masami Sushi", offset: 0, place: 8),
-//            Tools(id: 8, image: "Wokkong", name: "Wokkong", offset: 0, place: 9),
-//            Tools(id: 9, image: "Haku", name: "Haku", offset: 0, place: 10)
+//            Tools(id: 7, image: "MASAMISUSHI", name: "MASAMISUSHI", offset: 0, place: 8),
+//            Tools(id: 8, image: "WOKKONG", name: "WOKKONG", offset: 0, place: 9),
+//            Tools(id: 9, image: "HAKYU", name: "HAKYU", offset: 0, place: 10)
 //        ]
     
     //case.khaleeji:
     //restaurant = [
     
-//    //Tools(id: 0, image: "Al Romansiah", name: "Al Romansiah", offset: 0, place: 1),
-//    Tools(id: 1, image: "Al Saudi", name: "Al Saudi", offset: 0, place: 2),
-//    Tools(id: 2, image: "Najd Village", name: "Najd Village", offset: 0, place: 3),
-//    Tools(id: 3, image: "Aseeb Najd", name: "Aseeb Najd", offset: 0, place: 4),
-//    Tools(id: 4, image: "haneen", name: "haneen", offset: 0, place: 5),
-//    Tools(id: 5, image: "hwayat alkhlij", name: "hwayat alkhlij", offset: 0, place: 6),
-//    Tools(id: 6, image: "Takya", name: "Takya", offset: 0, place: 7),
+//    //Tools(id: 0, image: "AL ROMANSIAH", name: "AL ROMANSIAH", offset: 0, place: 1),
+//    Tools(id: 1, image: "AL SAUDI", name: "AL SAUDI", offset: 0, place: 2),
+//    Tools(id: 2, image: "NAJD VILLAGE", name: "NAJD VILLAGE", offset: 0, place: 3),
+//    Tools(id: 3, image: "Aseeb", name: "Aseeb", offset: 0, place: 4),
+//    Tools(id: 4, image: "AL HANEEN", name: "AL HANEEN", offset: 0, place: 5),
+//    Tools(id: 5, image: "Shawayat Alkhlij", name: "Shawayat Alkhlij", offset: 0, place: 6),
+//    Tools(id: 6, image: "TAKYA", name: "TAKYA", offset: 0, place: 7),
 //    Tools(id: 7, image: "MSHAGITH", name: "MSHAGITH", offset: 0, place: 8),
-//    Tools(id: 8, image: "Al shawaya house", name: "Al shawaya house", offset: 0, place: 9),
-//    Tools(id: 9, image: "BU KEES", name: "BU KEES", offset: 0, place: 10)
+//    Tools(id: 8, image: "SHAWAYA HOUSE", name: "SHAWAYA HOUSE", offset: 0, place: 9),
+//    Tools(id: 9, image: "BO KEES", name: "BO KEES", offset: 0, place: 10)
 //]
     
     //case.italian:
     //restaurant = [
     
-//    Tools(id: 0, image: "PIZZA HUT", name: "PIZZA HUT", offset: 0, place: 1),
-//           Tools(id: 1, image: "Dominos pizza", name: "Dominos pizza", offset: 0, place: 2),
-//           Tools(id: 2, image: "Piatto", name: "Piatto", offset: 0, place: 3),
-//           Tools(id: 3, image: "La Ristica Pizzeria", name: "La Ristica Pizzeria", offset: 0, place: 4),
+//    Tools(id: 0, image: "Pizza Hut", name: "Pizza Hut", offset: 0, place: 1),
+//           Tools(id: 1, image: "dominos_social_logo", name: "dominos_social_logo", offset: 0, place: 2),
+//           Tools(id: 2, image: "PIATTO", name: "PIATTO", offset: 0, place: 3),
+//           Tools(id: 3, image: "LA RUSTICA", name: "LA RUSTICA", offset: 0, place: 4),
 //           Tools(id: 4, image: "EATALY", name: "EATALY", offset: 0, place: 5),
 //           Tools(id: 5, image: "L’olimpo", name: "L’olimpo", offset: 0, place: 6),
 //           Tools(id: 6, image: "LA CASA PASTA", name: "LA CASA PASTA", offset: 0, place: 7),
-//           Tools(id: 7, image: "Oregano Pizzeria", name: "Oregano Pizzeria", offset: 0, place: 8),
-//           Tools(id: 8, image: "roma", name: "roma", offset: 0, place: 9),
+//           Tools(id: 7, image: "OREGANO PIZZERIA", name: "OREGANO PIZZERIA", offset: 0, place: 8),
+//           Tools(id: 8, image: "ROMA RESTARAUNT", name: "ROMA RESTARAUNT", offset: 0, place: 9),
 //           Tools(id: 9, image: "L’Antica Pizzeria da Michele", name: "L’Antica Pizzeria da Michele", offset: 0, place: 10)
 //       ]
     
@@ -86,29 +86,29 @@ struct Home : View {
     //restaurant = [
     
 //    Tools(id: 0, image: "Zafarn", name: "Zafarn", offset: 0, place: 1),
-//           Tools(id: 1, image: "Baba khan", name: "Baba khan", offset: 0, place: 2),
+//           Tools(id: 1, image: "Baba Khan", name: "Baba Khan", offset: 0, place: 2),
 //           Tools(id: 2, image: "Ruhi", name: "Ruhi", offset: 0, place: 3),
 //           Tools(id: 3, image: "Spice", name: "Spice", offset: 0, place: 4),
-//           Tools(id: 4, image: "makani", name: "Makani", offset: 0, place: 5),
-//           Tools(id: 5, image: "mohalla", name: "Mohalla", offset: 0, place: 6),
-//           Tools(id: 6, image: "molo", name: "Molo", offset: 0, place: 7),
-//           Tools(id: 7, image: "golden chimney", name: "Golden Chimney", offset: 0, place: 8),
-//           Tools(id: 8, image: "amaly", name: "Amaly", offset: 0, place: 9),
-//           Tools(id: 9, image: "blue Tok Tok", name: "Blue Tok Tok", offset: 0, place: 10)
+//           Tools(id: 4, image: "Makani", name: "Makani", offset: 0, place: 5),
+//           Tools(id: 5, image: "Mohalla", name: "Mohalla", offset: 0, place: 6),
+//           Tools(id: 6, image: "Molo", name: "Molo", offset: 0, place: 7),
+//           Tools(id: 7, image: "Golden Chimney", name: "Golden Chimney", offset: 0, place: 8),
+//           Tools(id: 8, image: "Amaly", name: "Amaly", offset: 0, place: 9),
+//           Tools(id: 9, image: "Blue Tok Tok", name: "Blue Tok Tok", offset: 0, place: 10)
 //       ]
     
     //case.american:
     //restaurant = [
     
-//    Tools(id: 0, image: "McDonalds", name: "McDonalds", offset: 0, place: 1),
-//           Tools(id: 1, image: "Hardes", name: "Hardes", offset: 0, place: 2),
-//           Tools(id: 2, image: "Five Guys", name: "Five Guys", offset: 0, place: 3),
-//           Tools(id: 3, image: "Popeyes", name: "Popeyes", offset: 0, place: 4),
+//    Tools(id: 0, image: "MCDONALDS", name: "MCDONALDS", offset: 0, place: 1),
+//           Tools(id: 1, image: "HARDES", name: "HARDES", offset: 0, place: 2),
+//           Tools(id: 2, image: "FIVE GUYS", name: "FIVE GUYS", offset: 0, place: 3),
+//           Tools(id: 3, image: "Popeyes_Logo", name: "Popeyes_Logo", offset: 0, place: 4),
 //           Tools(id: 4, image: "Chik N Bun", name: "Chik N Bun", offset: 0, place: 5),
-//           Tools(id: 5, image: "Kutlet", name: "Kutlet", offset: 0, place: 6),
-//           Tools(id: 6, image: "Fridays", name: "Fridays", offset: 0, place: 7),
+//           Tools(id: 5, image: "KUTLET", name: "KUTLET", offset: 0, place: 6),
+//           Tools(id: 6, image: "FRIDAYS", name: "FRIDAYS", offset: 0, place: 7),
 //           Tools(id: 7, image: "Steak House", name: "Steak House", offset: 0, place: 8),
-//           Tools(id: 8, image: "Wild Bufflo Wings", name: "Wild Bufflo Wings", offset: 0, place: 9)
+//           Tools(id: 8, image: "Buffalo Wild wings", name: "Buffalo Wild wings", offset: 0, place: 9)
 //       ]
     
     //  ]
